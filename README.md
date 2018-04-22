@@ -1,9 +1,7 @@
 # Ansible win_psslmgr_rearm module
 
-It's a placeholder project for the Ansible win_psslmgr_rearm module - PowerShell implementation of slmgr.vbs.
+Ansible win_psslmgr_rearm module performs rearm operations using PowerShell PSSlmgr module .
 
-This module performs rearm operations.
+Coresponding PSSlmgr PowerShell module is hosted on [GitHub](https://github.com/it-praktyk/PSSlmgr) and licensed under the MIT license.
 
-Coresponding [PSSlmgr PowerShell module](https://github.com/it-praktyk/PSSlmgr)
-
-Module will be presented under PowerShell Conference Europe 2018.
+The module was a part of presentation 'Use your PowerShell skills to extend Ansible workflows. Create your own Ansible module for Windows platform.' under [PowerShell Conference Europe 2018](http://www.psconf.eu/).
